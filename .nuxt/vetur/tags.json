@@ -1,0 +1,125 @@
+{
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "Stories": {
+    "description": "Auto imported from components/Stories.vue"
+  },
+  "AlertTheAlert": {
+    "description": "Auto imported from components/alert/TheAlert.vue"
+  },
+  "AddressesTheAddresses": {
+    "description": "Auto imported from components/addresses/TheAddresses.vue"
+  },
+  "AddressesTheAddressForm": {
+    "description": "Auto imported from components/addresses/TheAddressForm.vue"
+  },
+  "CartCounter": {
+    "description": "Auto imported from components/cart/CartCounter.vue"
+  },
+  "CartTheFirstStep": {
+    "description": "Auto imported from components/cart/TheFirstStep.vue"
+  },
+  "CartTheSecondStep": {
+    "description": "Auto imported from components/cart/TheSecondStep.vue"
+  },
+  "HomeTheSlider": {
+    "description": "Auto imported from components/home/TheSlider.vue"
+  },
+  "OrderTheOrders": {
+    "description": "Auto imported from components/order/TheOrders.vue"
+  },
+  "OrderTheStarRating": {
+    "description": "Auto imported from components/order/TheStarRating.vue"
+  },
+  "OrderTheSupplierOrder": {
+    "description": "Auto imported from components/order/TheSupplierOrder.vue"
+  },
+  "ProductsShareProduct": {
+    "description": "Auto imported from components/products/ShareProduct.vue"
+  },
+  "ProductsTab": {
+    "description": "Auto imported from components/products/tab.vue"
+  },
+  "ProductsTabs": {
+    "description": "Auto imported from components/products/tabs.vue"
+  },
+  "ProductsTheGallery": {
+    "description": "Auto imported from components/products/TheGallery.vue"
+  },
+  "ProfileTheProfileCard": {
+    "description": "Auto imported from components/profile/TheProfileCard.vue"
+  },
+  "ProfileTheSideBar": {
+    "description": "Auto imported from components/profile/TheSideBar.vue"
+  },
+  "SharedBlogData": {
+    "description": "Auto imported from components/shared/BlogData.vue"
+  },
+  "SharedTheCard": {
+    "description": "Auto imported from components/shared/TheCard.vue"
+  },
+  "SharedTheCategoriesCard": {
+    "description": "Auto imported from components/shared/TheCategoriesCard.vue"
+  },
+  "SharedTheChat": {
+    "description": "Auto imported from components/shared/TheChat.vue"
+  },
+  "SharedTheFooter": {
+    "description": "Auto imported from components/shared/TheFooter.vue"
+  },
+  "SharedTheHeaderPage": {
+    "description": "Auto imported from components/shared/TheHeaderPage.vue"
+  },
+  "SharedTheHeaderSection": {
+    "description": "Auto imported from components/shared/TheHeaderSection.vue"
+  },
+  "SharedTheLoader": {
+    "description": "Auto imported from components/shared/TheLoader.vue"
+  },
+  "SharedTheNav": {
+    "description": "Auto imported from components/shared/TheNav.vue"
+  },
+  "SharedTheNotification": {
+    "description": "Auto imported from components/shared/TheNotification.vue"
+  },
+  "SharedTheRate": {
+    "description": "Auto imported from components/shared/TheRate.vue"
+  },
+  "SharedTheRating": {
+    "description": "Auto imported from components/shared/TheRating.vue"
+  },
+  "SharedTheStoryCard": {
+    "description": "Auto imported from components/shared/TheStoryCard.vue"
+  },
+  "SharedTheTopRatedCard": {
+    "description": "Auto imported from components/shared/TheTopRatedCard.vue"
+  },
+  "SupplierTheSideBar": {
+    "description": "Auto imported from components/supplier/TheSideBar.vue"
+  },
+  "FormSupplierTheSupplierChangePass": {
+    "description": "Auto imported from components/form/supplier/TheSupplierChangePass.vue"
+  },
+  "FormSupplierTheSupplierGeneralInfo": {
+    "description": "Auto imported from components/form/supplier/TheSupplierGeneralInfo.vue"
+  },
+  "FormSupplierTheSupplierLogin": {
+    "description": "Auto imported from components/form/supplier/TheSupplierLogin.vue"
+  },
+  "FormSupplierTheSupplierRegister": {
+    "description": "Auto imported from components/form/supplier/TheSupplierRegister.vue"
+  },
+  "FormUserTheLogin": {
+    "description": "Auto imported from components/form/user/TheLogin.vue"
+  },
+  "FormUserTheUserChangePass": {
+    "description": "Auto imported from components/form/user/TheUserChangePass.vue"
+  },
+  "FormUserTheUserGeneralInfo": {
+    "description": "Auto imported from components/form/user/TheUserGeneralInfo.vue"
+  },
+  "FormUserTheUserRegister": {
+    "description": "Auto imported from components/form/user/TheUserRegister.vue"
+  }
+}

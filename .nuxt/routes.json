@@ -1,0 +1,492 @@
+[
+  {
+    "name": "about___en",
+    "path": "/about",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_1d2bab5a"
+  },
+  {
+    "name": "index___ar",
+    "path": "/ar",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3ce3861f"
+  },
+  {
+    "name": "cart___en",
+    "path": "/cart",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\cart\\\\index.vue",
+    "chunkName": "pages/cart/index",
+    "_name": "_58655fbf"
+  },
+  {
+    "name": "contact___en",
+    "path": "/contact",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_f929dda6"
+  },
+  {
+    "name": "quote___en",
+    "path": "/quote",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\quote.vue",
+    "chunkName": "pages/quote",
+    "_name": "_14a0b6c9"
+  },
+  {
+    "name": "terms___en",
+    "path": "/terms",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\terms.vue",
+    "chunkName": "pages/terms",
+    "_name": "_323d7758"
+  },
+  {
+    "name": "test___en",
+    "path": "/test",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "_name": "_3af82fd5"
+  },
+  {
+    "name": "about___ar",
+    "path": "/ar/about",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_1d2bab5a"
+  },
+  {
+    "name": "cart___ar",
+    "path": "/ar/cart",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\cart\\\\index.vue",
+    "chunkName": "pages/cart/index",
+    "_name": "_58655fbf"
+  },
+  {
+    "name": "contact___ar",
+    "path": "/ar/contact",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_f929dda6"
+  },
+  {
+    "name": "quote___ar",
+    "path": "/ar/quote",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\quote.vue",
+    "chunkName": "pages/quote",
+    "_name": "_14a0b6c9"
+  },
+  {
+    "name": "terms___ar",
+    "path": "/ar/terms",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\terms.vue",
+    "chunkName": "pages/terms",
+    "_name": "_323d7758"
+  },
+  {
+    "name": "test___ar",
+    "path": "/ar/test",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "_name": "_3af82fd5"
+  },
+  {
+    "name": "auth-register___en",
+    "path": "/auth/register",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\auth\\\\register.vue",
+    "chunkName": "pages/auth/register",
+    "_name": "_d12b1a64"
+  },
+  {
+    "name": "profile-addresses___en",
+    "path": "/profile/addresses",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\profile\\\\addresses.vue",
+    "chunkName": "pages/profile/addresses",
+    "_name": "_64270b5c"
+  },
+  {
+    "name": "profile-change-password___en",
+    "path": "/profile/change-password",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\profile\\\\change-password.vue",
+    "chunkName": "pages/profile/change-password",
+    "_name": "_49b61352"
+  },
+  {
+    "name": "profile-chat___en",
+    "path": "/profile/chat",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\profile\\\\chat.vue",
+    "chunkName": "pages/profile/chat",
+    "_name": "_2daf8e8e"
+  },
+  {
+    "name": "profile-favorite___en",
+    "path": "/profile/favorite",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\profile\\\\favorite.vue",
+    "chunkName": "pages/profile/favorite",
+    "_name": "_b1e2f85c"
+  },
+  {
+    "name": "profile-general-info___en",
+    "path": "/profile/general-info",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\profile\\\\general-info.vue",
+    "chunkName": "pages/profile/general-info",
+    "_name": "_12ec4629"
+  },
+  {
+    "name": "profile-history-order___en",
+    "path": "/profile/history-order",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\profile\\\\history-order.vue",
+    "chunkName": "pages/profile/history-order",
+    "_name": "_07959e0f"
+  },
+  {
+    "name": "profile-notification___en",
+    "path": "/profile/notification",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\profile\\\\notification.vue",
+    "chunkName": "pages/profile/notification",
+    "_name": "_155904a1"
+  },
+  {
+    "name": "supplier-change-password___en",
+    "path": "/supplier/change-password",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\supplier\\\\change-password.vue",
+    "chunkName": "pages/supplier/change-password",
+    "_name": "_45b35fce"
+  },
+  {
+    "name": "supplier-chat___en",
+    "path": "/supplier/chat",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\supplier\\\\chat.vue",
+    "chunkName": "pages/supplier/chat",
+    "_name": "_12258827"
+  },
+  {
+    "name": "supplier-delivery___en",
+    "path": "/supplier/delivery",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\supplier\\\\delivery.vue",
+    "chunkName": "pages/supplier/delivery",
+    "_name": "_0f9e6f43"
+  },
+  {
+    "name": "supplier-general-info___en",
+    "path": "/supplier/general-info",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\supplier\\\\general-info.vue",
+    "chunkName": "pages/supplier/general-info",
+    "_name": "_4180d27c"
+  },
+  {
+    "name": "supplier-history-order___en",
+    "path": "/supplier/history-order",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\supplier\\\\history-order.vue",
+    "chunkName": "pages/supplier/history-order",
+    "_name": "_74a73ed4"
+  },
+  {
+    "name": "supplier-manage-products___en",
+    "path": "/supplier/manage-products",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\supplier\\\\manage-products.vue",
+    "chunkName": "pages/supplier/manage-products",
+    "_name": "_45c07ecd"
+  },
+  {
+    "name": "supplier-notification___en",
+    "path": "/supplier/notification",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\supplier\\\\notification.vue",
+    "chunkName": "pages/supplier/notification",
+    "_name": "_3ca7558c"
+  },
+  {
+    "name": "supplier-statistics___en",
+    "path": "/supplier/statistics",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\supplier\\\\statistics.vue",
+    "chunkName": "pages/supplier/statistics",
+    "_name": "_78260332"
+  },
+  {
+    "name": "supplier-subscription___en",
+    "path": "/supplier/subscription",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\supplier\\\\subscription.vue",
+    "chunkName": "pages/supplier/subscription",
+    "_name": "_62e0bc6c"
+  },
+  {
+    "name": "auth-register___ar",
+    "path": "/ar/auth/register",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\auth\\\\register.vue",
+    "chunkName": "pages/auth/register",
+    "_name": "_d12b1a64"
+  },
+  {
+    "name": "profile-addresses___ar",
+    "path": "/ar/profile/addresses",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\profile\\\\addresses.vue",
+    "chunkName": "pages/profile/addresses",
+    "_name": "_64270b5c"
+  },
+  {
+    "name": "profile-change-password___ar",
+    "path": "/ar/profile/change-password",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\profile\\\\change-password.vue",
+    "chunkName": "pages/profile/change-password",
+    "_name": "_49b61352"
+  },
+  {
+    "name": "profile-chat___ar",
+    "path": "/ar/profile/chat",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\profile\\\\chat.vue",
+    "chunkName": "pages/profile/chat",
+    "_name": "_2daf8e8e"
+  },
+  {
+    "name": "profile-favorite___ar",
+    "path": "/ar/profile/favorite",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\profile\\\\favorite.vue",
+    "chunkName": "pages/profile/favorite",
+    "_name": "_b1e2f85c"
+  },
+  {
+    "name": "profile-general-info___ar",
+    "path": "/ar/profile/general-info",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\profile\\\\general-info.vue",
+    "chunkName": "pages/profile/general-info",
+    "_name": "_12ec4629"
+  },
+  {
+    "name": "profile-history-order___ar",
+    "path": "/ar/profile/history-order",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\profile\\\\history-order.vue",
+    "chunkName": "pages/profile/history-order",
+    "_name": "_07959e0f"
+  },
+  {
+    "name": "profile-notification___ar",
+    "path": "/ar/profile/notification",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\profile\\\\notification.vue",
+    "chunkName": "pages/profile/notification",
+    "_name": "_155904a1"
+  },
+  {
+    "name": "supplier-change-password___ar",
+    "path": "/ar/supplier/change-password",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\supplier\\\\change-password.vue",
+    "chunkName": "pages/supplier/change-password",
+    "_name": "_45b35fce"
+  },
+  {
+    "name": "supplier-chat___ar",
+    "path": "/ar/supplier/chat",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\supplier\\\\chat.vue",
+    "chunkName": "pages/supplier/chat",
+    "_name": "_12258827"
+  },
+  {
+    "name": "supplier-delivery___ar",
+    "path": "/ar/supplier/delivery",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\supplier\\\\delivery.vue",
+    "chunkName": "pages/supplier/delivery",
+    "_name": "_0f9e6f43"
+  },
+  {
+    "name": "supplier-general-info___ar",
+    "path": "/ar/supplier/general-info",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\supplier\\\\general-info.vue",
+    "chunkName": "pages/supplier/general-info",
+    "_name": "_4180d27c"
+  },
+  {
+    "name": "supplier-history-order___ar",
+    "path": "/ar/supplier/history-order",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\supplier\\\\history-order.vue",
+    "chunkName": "pages/supplier/history-order",
+    "_name": "_74a73ed4"
+  },
+  {
+    "name": "supplier-manage-products___ar",
+    "path": "/ar/supplier/manage-products",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\supplier\\\\manage-products.vue",
+    "chunkName": "pages/supplier/manage-products",
+    "_name": "_45c07ecd"
+  },
+  {
+    "name": "supplier-notification___ar",
+    "path": "/ar/supplier/notification",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\supplier\\\\notification.vue",
+    "chunkName": "pages/supplier/notification",
+    "_name": "_3ca7558c"
+  },
+  {
+    "name": "supplier-statistics___ar",
+    "path": "/ar/supplier/statistics",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\supplier\\\\statistics.vue",
+    "chunkName": "pages/supplier/statistics",
+    "_name": "_78260332"
+  },
+  {
+    "name": "supplier-subscription___ar",
+    "path": "/ar/supplier/subscription",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\supplier\\\\subscription.vue",
+    "chunkName": "pages/supplier/subscription",
+    "_name": "_62e0bc6c"
+  },
+  {
+    "name": "auth-supplier-forget___en",
+    "path": "/auth/supplier/forget",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\auth\\\\supplier\\\\forget.vue",
+    "chunkName": "pages/auth/supplier/forget",
+    "_name": "_29580164"
+  },
+  {
+    "name": "auth-supplier-supplierLogin___en",
+    "path": "/auth/supplier/supplierLogin",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\auth\\\\supplier\\\\supplierLogin.vue",
+    "chunkName": "pages/auth/supplier/supplierLogin",
+    "_name": "_32b76654"
+  },
+  {
+    "name": "auth-user-forget___en",
+    "path": "/auth/user/forget",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\auth\\\\user\\\\forget.vue",
+    "chunkName": "pages/auth/user/forget",
+    "_name": "_46d1ee63"
+  },
+  {
+    "name": "auth-user-login___en",
+    "path": "/auth/user/login",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\auth\\\\user\\\\login.vue",
+    "chunkName": "pages/auth/user/login",
+    "_name": "_7bd92963"
+  },
+  {
+    "name": "profile-order-rate___en",
+    "path": "/profile/order/rate",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\profile\\\\order\\\\rate.vue",
+    "chunkName": "pages/profile/order/rate",
+    "_name": "_262dd668"
+  },
+  {
+    "name": "supplier-product-add___en",
+    "path": "/supplier/product/add",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\supplier\\\\product\\\\add.vue",
+    "chunkName": "pages/supplier/product/add",
+    "_name": "_7274ce61"
+  },
+  {
+    "name": "auth-supplier-forget___ar",
+    "path": "/ar/auth/supplier/forget",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\auth\\\\supplier\\\\forget.vue",
+    "chunkName": "pages/auth/supplier/forget",
+    "_name": "_29580164"
+  },
+  {
+    "name": "auth-supplier-supplierLogin___ar",
+    "path": "/ar/auth/supplier/supplierLogin",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\auth\\\\supplier\\\\supplierLogin.vue",
+    "chunkName": "pages/auth/supplier/supplierLogin",
+    "_name": "_32b76654"
+  },
+  {
+    "name": "auth-user-forget___ar",
+    "path": "/ar/auth/user/forget",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\auth\\\\user\\\\forget.vue",
+    "chunkName": "pages/auth/user/forget",
+    "_name": "_46d1ee63"
+  },
+  {
+    "name": "auth-user-login___ar",
+    "path": "/ar/auth/user/login",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\auth\\\\user\\\\login.vue",
+    "chunkName": "pages/auth/user/login",
+    "_name": "_7bd92963"
+  },
+  {
+    "name": "profile-order-rate___ar",
+    "path": "/ar/profile/order/rate",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\profile\\\\order\\\\rate.vue",
+    "chunkName": "pages/profile/order/rate",
+    "_name": "_262dd668"
+  },
+  {
+    "name": "supplier-product-add___ar",
+    "path": "/ar/supplier/product/add",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\supplier\\\\product\\\\add.vue",
+    "chunkName": "pages/supplier/product/add",
+    "_name": "_7274ce61"
+  },
+  {
+    "name": "profile-order-id___ar",
+    "path": "/ar/profile/order/:id?",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\profile\\\\order\\\\_id.vue",
+    "chunkName": "pages/profile/order/_id",
+    "_name": "_6b24d262"
+  },
+  {
+    "name": "supplier-order-id___ar",
+    "path": "/ar/supplier/order/:id?",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\supplier\\\\order\\\\_id.vue",
+    "chunkName": "pages/supplier/order/_id",
+    "_name": "_1dd5158a"
+  },
+  {
+    "name": "categories-id___ar",
+    "path": "/ar/categories/:id?",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\categories\\\\_id.vue",
+    "chunkName": "pages/categories/_id",
+    "_name": "_909ccaaa"
+  },
+  {
+    "name": "products-id___ar",
+    "path": "/ar/products/:id?",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\products\\\\_id.vue",
+    "chunkName": "pages/products/_id",
+    "_name": "_585e19a3"
+  },
+  {
+    "name": "store-id___ar",
+    "path": "/ar/store/:id?",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\store\\\\_id.vue",
+    "chunkName": "pages/store/_id",
+    "_name": "_08445508"
+  },
+  {
+    "name": "profile-order-id___en",
+    "path": "/profile/order/:id?",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\profile\\\\order\\\\_id.vue",
+    "chunkName": "pages/profile/order/_id",
+    "_name": "_6b24d262"
+  },
+  {
+    "name": "supplier-order-id___en",
+    "path": "/supplier/order/:id?",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\supplier\\\\order\\\\_id.vue",
+    "chunkName": "pages/supplier/order/_id",
+    "_name": "_1dd5158a"
+  },
+  {
+    "name": "categories-id___en",
+    "path": "/categories/:id?",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\categories\\\\_id.vue",
+    "chunkName": "pages/categories/_id",
+    "_name": "_909ccaaa"
+  },
+  {
+    "name": "products-id___en",
+    "path": "/products/:id?",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\products\\\\_id.vue",
+    "chunkName": "pages/products/_id",
+    "_name": "_585e19a3"
+  },
+  {
+    "name": "store-id___en",
+    "path": "/store/:id?",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\store\\\\_id.vue",
+    "chunkName": "pages/store/_id",
+    "_name": "_08445508"
+  },
+  {
+    "name": "index___en",
+    "path": "/",
+    "component": "D:\\\\bouquet - Copy\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3ce3861f"
+  }
+]
